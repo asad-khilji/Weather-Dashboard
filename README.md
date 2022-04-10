@@ -33,6 +33,6 @@
 
 ## Contribution
 
-![screenshot.png](https://github.com/asad-khilji/Weather-Dashboard/blob/main/images/06-server-side-apis-homework-demo.png?raw=true)
+![screenshot.png](https://github.com/asad-khilji/Weather-Dashboard/blob/main/images/Screen%20Shot%202022-04-10%20at%207.15.14%20PM.png?raw=true)
 
 * Made with ❤️ By Asad Khilji
